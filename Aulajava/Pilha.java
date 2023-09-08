@@ -1,7 +1,7 @@
 package Aulajava;
 import java.util.Stack;
 
-class PilhaJava{
+class Pilha{
     public static void main(String[] args) {
         Stack<String> pilha = new Stack<String>();
         pilha.push("Estrutura");
