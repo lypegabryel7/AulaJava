@@ -9,6 +9,7 @@ public class Fila {
     fila.add("dois");
     fila.add("três");
     fila.add("quatro");
+    fila.clear();
     System.out.println("A fila possui: " + fila);
 }
 }
