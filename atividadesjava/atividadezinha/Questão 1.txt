@@ -1,0 +1,5 @@
+Quais as diferenças entre pilhas, listas e filas?
+
+R: Pilhas são elementos onde se tem base a partir do último elemento adicionado, sendo possível alterar, adicionar e remover.
+    diferente de Filas, onde o elemento a ser alterado é o primeiro que foi adicionado.
+    E listas abrangem uma variedade maior, sendo possível adicionar, remover e alterar elementos de qualquer posição.
