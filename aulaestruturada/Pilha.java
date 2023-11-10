@@ -1,4 +1,4 @@
-package Aulajava;
+package aulaestruturada;
 import java.util.Stack;
 
 class Pilha{

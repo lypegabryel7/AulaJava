@@ -1,4 +1,4 @@
-package Aulajava;
+package aulaestruturada;
 import java.util.ArrayList;
 import java.util.Scanner;
 

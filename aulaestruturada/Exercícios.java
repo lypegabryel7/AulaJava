@@ -1,5 +1,4 @@
-package Aulajava;
-import java.util.Queue;
+package aulaestruturada;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -27,7 +26,7 @@ public class Exercícios {
         }else{
             System.out.println("A lista não está vazia");
         }
+    scan.close();
     }
-        
     }    
 
